@@ -5,7 +5,7 @@ public class Base_concepts_of_Java{
 }
 
 // \n  - newline
-// \t  - tab
+// \t  - tab 
 // \"  - вывод кавычки
 // \\  - вывод слеша
 
